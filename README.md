@@ -12,6 +12,8 @@ Frontend is using jQuery framework.
 `$ sudo docker build -t infomarquee:latest -f Dockerfile .`
 3. Run container:
 `$ sudo docker run -d -p 8000:8000 infomarquee:latest`
+4. Application is available under:
+`http://localhost:8000/static/index.html`
 
 ## Usage
 Infomarquee expose simple REST API. 
