@@ -21,7 +21,7 @@ InfoMarquee expose simple REST API.
 | command       | description                  | example                                                                                |
 | ------------- |:-----------------------------| :--------------------------------------------------------------------------------------|
 | `GET /get`    | get current list of marquee  | `$ curl http://localhost:8000/get`                                                     |
-| `POST /set`   | set new marquee with duration of each one             | `$ curl -d @input.json -H "Content-Type: application/json" http://localhost:8000/set`  |
+| `POST /set`   | set new marquee with duration (sec) of each one             | `$ curl -d @input.json -H "Content-Type: application/json" http://localhost:8000/set`  |
 
 example of input.json:
 
