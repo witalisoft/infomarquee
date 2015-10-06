@@ -16,7 +16,7 @@ Frontend is using jQuery framework.
 `http://localhost:8000/static/index.html`
 
 ## Usage
-Infomarquee expose simple REST API. 
+InfoMarquee expose simple REST API. 
 
 | command       | description                  | example                                                                                |
 | ------------- |:-----------------------------| :--------------------------------------------------------------------------------------|
