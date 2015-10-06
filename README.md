@@ -6,7 +6,8 @@ Application is running in Docker container environment. Backend is written in Py
 Frontend is using jQuery framework.
 
 ## How to run
-1. Clone github repo
+1. Clone github repo:
+`$ git clone https://github.com/witalisoft/infomarquee.git`
 2. Build container image:
 `$ sudo docker build -t infomarquee:latest -f Dockerfile .`
 3. Run container:
